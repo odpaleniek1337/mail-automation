@@ -1,0 +1,25 @@
+{
+  "name": "automation-endpoints",
+  "version": "1.0.0",
+  "description": "",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odpaleniek1337/mail-automation.git"
+  },
+  "author": "Łukasz Rembowski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/odpaleniek1337/mail-automation/issues"
+  },
+  "homepage": "https://github.com/odpaleniek1337/mail-automation#readme",
+  "dependencies": {
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "helmet": "^5.1.0"
+  },
+  "type": "module"
+}
